@@ -1,0 +1,3 @@
+[submodule "submodule_one"]
+	path = submodule_one
+	url = git@github.com:nturaga/submodule_one
